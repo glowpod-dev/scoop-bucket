@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "description": "Kubernetes dashboard for app developers and platform teams, in the browser and the terminal",
+  "description": "Kubernetes dashboard for developers and platform teams, web and terminal",
   "homepage": "https://glowpod.dev",
   "license": "MIT",
   "architecture": {
