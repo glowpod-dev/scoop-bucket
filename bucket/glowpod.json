@@ -1,18 +1,18 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Kubernetes dashboard for developers and platform teams, web and terminal",
   "homepage": "https://glowpod.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/glowpod-dev/glowpod/releases/download/v0.3.0/glowpod_0.3.0_windows_amd64.zip",
-      "hash": "fb698c80d14f46ded849e6a489ab36a69683a2a9c504dfedc8796fad51e63c59",
-      "extract_dir": "glowpod_0.3.0_windows_amd64"
+      "url": "https://github.com/glowpod-dev/glowpod/releases/download/v0.4.0/glowpod_0.4.0_windows_amd64.zip",
+      "hash": "b68bfcad04502ae1e3cb165f53195fcb7dc61fe63e3b203af2e0570e54b4b76f",
+      "extract_dir": "glowpod_0.4.0_windows_amd64"
     },
     "arm64": {
-      "url": "https://github.com/glowpod-dev/glowpod/releases/download/v0.3.0/glowpod_0.3.0_windows_arm64.zip",
-      "hash": "8e7de22d8b738e5d596241eb04222237361677f6f45a1f2a1d02c73bbdcea32e",
-      "extract_dir": "glowpod_0.3.0_windows_arm64"
+      "url": "https://github.com/glowpod-dev/glowpod/releases/download/v0.4.0/glowpod_0.4.0_windows_arm64.zip",
+      "hash": "de4ac947488c471baf85d0cfc9b7ba09b300cf79a1013f27c472947e81c502ca",
+      "extract_dir": "glowpod_0.4.0_windows_arm64"
     }
   },
   "bin": "glowpod.exe",
